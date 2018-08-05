@@ -2,5 +2,14 @@
   "name": "react-app-testing",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --testURL=\"http://localhost/\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  }
 }
