@@ -2,14 +2,16 @@
   "name": "react-app-testing",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "test": "jest --watch *.js --testURL=\"http://localhost/\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "devDependencies": {
     "jest": "^23.4.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.0"
   }
 }

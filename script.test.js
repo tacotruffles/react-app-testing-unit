@@ -1,3 +1,4 @@
+// Pure / Sync Testing
 const googleSearch = require('./script');
 
 dbMock = ['dog.com', 'cheesepuff.com', 'disney.com', 'dogpictures.com'];
